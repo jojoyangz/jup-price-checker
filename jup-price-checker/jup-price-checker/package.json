@@ -1,0 +1,29 @@
+{
+  "name": "jup-price-checker",
+  "version": "1.0.1",
+  "description": "check jup price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jojoyangz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "bnb-price-checker": "^1.0.0",
+    "btc-price-checker": "^1.0.2",
+    "chalk": "^5.3.0",
+    "pyth-price-checker": "^1.0.3",
+    "shell-oooooyoung": "^1.1.9",
+    "sol-price-checker": "^1.0.2",
+    "strk-price-check": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jojoyangz/jup-price-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jojoyangz/jup-price-checker/issues"
+  },
+  "homepage": "https://github.com/jojoyangz/jup-price-checker/blob/main/README.md"
+}
